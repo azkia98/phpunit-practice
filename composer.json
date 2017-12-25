@@ -1,0 +1,16 @@
+{
+    "name": "mahdi/phpunit",
+    "description": "this is a simple project of explainig phpunit",
+    "authors": [
+        {
+            "name": "azkia98",
+            "email": "azkia@iran.ir"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"app"
+        }
+    }
+}
