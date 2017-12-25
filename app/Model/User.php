@@ -13,7 +13,7 @@ class User {
     
     public function getName()
     {
-        return $name;
+        return $this->name;
     }
 
     public function setFamilyName($FamilyName)
